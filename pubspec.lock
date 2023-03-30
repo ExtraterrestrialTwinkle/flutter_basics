@@ -28,10 +28,11 @@ packages:
   carousel_slider:
     dependency: "direct main"
     description:
-      name: carousel_slider
-      sha256: "9c695cc963bf1d04a47bd6021f68befce8970bcd61d24938e1fb0918cf5d9c42"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: master
+      resolved-ref: "36d3f399cb98634d5f5cd30eaff56c34b04c5f40"
+      url: "https://github.com/serenader2014/flutter_carousel_slider"
+    source: git
     version: "4.2.1"
   characters:
     dependency: transitive
